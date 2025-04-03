@@ -1,61 +1,58 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Gesina Menz",
+    "email": "gesina.menz@it.uu.se",
+    "website": "https://gesinamenz.github.io",
+    "summary": "PhD student in mathematical biology at Uppsala University",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Uppsala Universitet",
+      "city": "Uppsala",
+      "countryCode": "SE"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Gesina Menz",
+        "url": "https://scholar.google.se/citations?user=2lp9FuIAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Gesina Menz",
+        "url": "https://orcid.org/0000-0002-3589-9824"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "menzge",
+        "url": "https://github.com/menzge"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Uppsala Universitet",
+      "area": "PhD in Scientific Computing",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2022",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Heriot-Watt University",
+      "area": "MSc in Mathematical Biology, Ecology and Medicine",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "University of Edinburgh",
+      "area": "BSc (Hons) in Mathematics and Biology",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
