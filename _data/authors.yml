@@ -1,18 +1,8 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Gesina Menz"
+  uri         : "https://www.uu.se/en/contact-and-organisation/staff?query=N21-2101"
+  email       : "gesina.menz@it.uu.se"
+  bio         : "Hi, I'm a PhD student interested in the mathematical and computational modelling of interactions within cell populations. This includes biological interactions such as cell signalling, patterning, etc. which we try to capture using both deterministic and stochastic modelling.."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
