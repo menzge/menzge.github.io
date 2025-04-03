@@ -3,6 +3,7 @@ _site/
 .sass-cache/
 
 # Ignore the directory for local files during development
+vendor/
 local/
 
 # Ignore the Gemfile that is generated
