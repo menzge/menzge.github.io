@@ -13,7 +13,7 @@ title                    : "Gesina Menz / About Myself"
 title_separator          : "-"
 name                     : &name "Gesina Menz"
 description              : &description "I'm a PhD student in Scientific Computing at Uppsala University"
-url                      : https://gesinamenz.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://gesinamenz.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "menzge/gesinamenz.github.io"
 
@@ -22,13 +22,13 @@ repository               : "menzge/gesinamenz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_7498.png"
   name             : "Gesina Menz"
   pronouns         : "she/her"  
   bio              : "PhD student in Scientific Computing at Uppsala University"
   location         : "Uppsala, Sweden"
   employer         : "Uppsala Universitet"
-  uri              : # URL
+  uri              : "https://www.uu.se/en/contact-and-organisation/staff?query=N21-2101"
   email            : "gesina.menz@it.uu.se" 
 
   # Academic websites
