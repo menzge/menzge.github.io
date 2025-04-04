@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default"
-title                    : "Gesina Menz / About Myself"
+title                    : "Gesina Menz"
 title_separator          : "-"
 name                     : &name "Gesina Menz"
 description              : &description "I'm a PhD student in Scientific Computing at Uppsala University"
