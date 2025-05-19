@@ -3,7 +3,7 @@ title: "Modeling the hallmarks of avascular tumors"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-02-hallmarks
-excerpt: 'This paper models four of the hallmarks of cancer in avascular tumours.'
+excerpt: 'This paper models four of the hallmarks of cancer in avascular tumours in an agent-based tumour model.'
 date: 2025-04-25
 venue: 'Numerical Mathematics and Advanced Applications ENUMATH 2023, Volume 1, Springer'
 paperurl: 'https://doi.org/10.1007/978-3-031-86173-4_15'
