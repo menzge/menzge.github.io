@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-02-hallmarks
 excerpt: 'This paper models four of the hallmarks of cancer in avascular tumours.'
 date: 2025-04-25
-venue: 'Springer, Cham'
+venue: 'Numerical Mathematics and Advanced Applications ENUMATH 2023, Volume 1, Springer'
 paperurl: 'https://doi.org/10.1007/978-3-031-86173-4_15'
 citation: 'E. Blom, S. Engblom, G. Menz. (2025). &quot;Modeling the Hallmarks of Avascular Tumors.&quot; <i>In: A. Sequeira, A. Silvestre, S.S. Valtchev, J. Janela (eds) Numerical Mathematics and Advanced Applications ENUMATH 2023, Volume 1. ENUMATH 2023. Lecture Notes in Computational Science and Engineering, vol 153. Springer, Cham.</i> https://doi.org/10.1007/978-3-031-86173-4_15'
 ---
